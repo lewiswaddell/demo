@@ -1,0 +1,6 @@
+customer_id,name,email,age,satisfaction_score,feedback
+C001,Ava Chen,ava.chen@example.com,29,8,"Easy to use"
+C002,Noah Patel,noah.patel@example.com,41,6,"Needs clearer instructions"
+C003,Mia Johnson,mia.johnson@example.com,35,9,"Quick and reliable"
+C004,Liam Brown,liam.brown@example.com,27,7,"Good overall"
+C005,Sophia Garcia,sophia.garcia@example.com,52,5,"Could be faster"
